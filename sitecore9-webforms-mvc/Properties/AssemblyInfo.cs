@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CCIS.Sitecore.Feature.WebFormsMvc")]
+[assembly: AssemblyTitle("CCIS.SC.Feature.WebFormsMvc")]
 [assembly: AssemblyDescription("WebForms sublayouts in MVC renderings for Sitecore 9.x")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
